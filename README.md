@@ -27,4 +27,4 @@ My goal is to transition into a Software Developer role. I enjoy solving problem
 📫 Let’s connect
 
 - GitHub: you’re already here 🙂
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/nikoloz-tsulaia-b02124332
