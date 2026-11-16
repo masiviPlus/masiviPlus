@@ -1,30 +1,30 @@
-👋 Hi, I’m Nikoloz
+👋 Hi, I'm Nikoloz
 
-I’m a NOC Engineer at eToro, responsible for service monitoring, Tier 3 investigations, and incident management, while also working on internal tools and automations to improve reliability and operational efficiency.
-My goal is to transition into a Software Developer role. I enjoy solving problems, writing clean and maintainable code, and building tools that make systems and people more efficient.
+I'm a Professional Services Engineer at eToro. I configure and deploy user settings across the Trading and Wallet domains, investigate regulatory breaches, and resolve stuck orders and redeems. I also help coordinate releases and change management. Before this I spent time in NOC, where I built internal tools and handled incident management. My goal is to grow into a Software Developer role, building tools that make systems and people more efficient.
 
-🚀 What I’m working on
+🚀 What I'm working on
 
-- Internal tools and automation scripts
-- Backend and full-stack projects
-- Improving system reliability through code
-- Learning best practices in software engineering
+* Internal tools and automation for operational workflows
+* Release and CI/CD automation with GitHub Actions
+* Backend and full-stack projects
+* Improving reliability and reducing manual work through code
 
 🧠 Currently learning
 
-- Software architecture and design patterns
-- Backend development and databases
-- Clean code, testing, and scalability
-- Modern JavaScript frameworks and Python tooling
+* Software architecture and design patterns
+* Backend development and databases
+* Clean code, testing, and scalability
+* AI integration and automation
+* Modern JavaScript frameworks and Python tooling
 
 🤝 Open to
 
-- Collaboration on interesting projects
-- Code reviews and feedback
-- Learning from experienced developers
-- Opportunities to grow as a software engineer
+* Collaboration on interesting projects
+* Code reviews and feedback
+* Learning from experienced developers
+* Opportunities to grow as a software engineer
 
-📫 Let’s connect
+📫 Let's connect
 
-- GitHub: you’re already here 🙂
-- LinkedIn: www.linkedin.com/in/nikoloz-tsulaia-b02124332
+* GitHub: you're already here 🙂
+* LinkedIn: [www.linkedin.com/in/nikoloz-tsulaia-b02124332](https://www.linkedin.com/in/nikoloz-tsulaia-b02124332)
